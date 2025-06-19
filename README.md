@@ -1,18 +1,6 @@
-&lt;p align="center">
-&lt;img src="https://media.giphy.com/media/v1.gif" alt="TDS Virtual TA Logo" width="150" height="150">
-&lt;/p>
+
 
 📚 TDS Virtual TA: Your AI-Powered IITM Course Assistant 🤖
-
- 
-
-
-
-&lt;p align="center">
-&lt;img src="https://media.giphy.com/media/v1.gif" alt="Animated AI Assistant" width="300" height="200">
-&lt;br>
-&lt;i>"Never get stuck on a Tools in Data Science question again!"&lt;/i>
-&lt;/p>
 
 ✨ Project Overview
 Welcome to the TDS Virtual TA! This project aims to revolutionize the learning experience for IIT Madras Online Degree students enrolled in the "Tools in Data Science" course. Tired of waiting for TA responses? Our intelligent AI-powered assistant provides instant, accurate answers to your course-related queries, leveraging both official course content and the collective knowledge from the TDS Discourse forum.
@@ -90,9 +78,9 @@ Your API will now be live at http://0.0.0.0:8000 (or http://localhost:8000).
 You can access the interactive API documentation at http://localhost:8000/docs.
 
 &lt;p align="center">
-&lt;img src="https://media.giphy.com/media/v1.gif" alt="API Demo GIF" width="400" height="250">
+&lt;img src="https://i.imgur.com/your-api-demo-gif.gif" alt="API Demo GIF" width="400">
 &lt;br>
-&lt;i>(Imagine a GIF here showing the /docs endpoint with a sample request and response)&lt;/i>
+&lt;i>(A quick demonstration of navigating to the /docs endpoint)&lt;/i>
 &lt;/p>
 
 💡 API Usage
@@ -148,15 +136,13 @@ npx -y promptfoo eval --config promptfoo.yaml
 This will run a set of sample questions against your API and provide an evaluation report.
 
 &lt;p align="center">
-&lt;img src="https://media.giphy.com/media/v1.gif" alt="Evaluation GIF" width="400" height="250">
+&lt;img src="https://i.imgur.com/your-evaluation-gif.gif" alt="Evaluation GIF" width="400">
 &lt;br>
-&lt;i>(Visualize a GIF showing the promptfoo evaluation running and a snippet of the results)&lt;/i>
+&lt;i>(A GIF showing the promptfoo evaluation command running and a snippet of the results)&lt;/i>
 &lt;/p>
 
 ☁️ Deployment
 You can deploy this application to any public URL of your choice (e.g., Render, Heroku, AWS, Google Cloud, Azure). Ensure your API endpoint is publicly accessible for evaluation.
-
-(Consider adding a small badge or icon for recommended deployment platforms here.)
 
 🤝 Contributing
 We welcome contributions to enhance the TDS Virtual TA! If you have suggestions, bug reports, or want to contribute code, please feel free to:
@@ -174,6 +160,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any questions or inquiries, please open an issue on this repository.
 
 &lt;p align="center">
-&lt;img src="https://media.giphy.com/media/v1.gif" alt="Thank You GIF" width="100" height="100">
+&lt;img src="https://i.imgur.com/your-thanks-gif.gif" alt="Thank You GIF" width="100">
 &lt;/p>
-
